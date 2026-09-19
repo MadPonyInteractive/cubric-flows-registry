@@ -1,7 +1,7 @@
 {
   "schema": "cubric/flow-registry/entry/v1",
   "id": "ci-probe",
-  "lane": "paid",
+  "lane": "free",
   "title": "CI Probe",
   "description": "A throwaway entry used to prove the workflow runs. Not a real Flow.",
   "version": "1.0.0",
@@ -11,7 +11,5 @@
   "minAppVersion": "2.0.0",
   "mediaType": "image",
   "requiredModels": [],
-  "preview": "https://example.com/ci-probe.webp",
-  "download": "https://example.com/ci-probe",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+  "preview": "nope.webp"
 }

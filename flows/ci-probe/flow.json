@@ -1,0 +1,7 @@
+{
+  "schema": "cubric/flow-package/v1",
+  "id": "ci-probe",
+  "version": "1.0.0",
+  "flow": { "title": "CI Probe", "description": "Deliberately incomplete.", "preview": "nope.webp", "requiredModels": [] },
+  "op": { "label": "Flow: CI Probe", "mediaType": "image" }
+}
