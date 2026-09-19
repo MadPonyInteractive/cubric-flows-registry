@@ -69,8 +69,9 @@ zip we reviewed. A buyer can hash what they downloaded and see it matches. That 
 what makes a listing here worth anything when the file itself is somewhere we do
 not control.
 
-Send the paid-lane zip to **`<TBD — email>`** *(this address is not set yet; the
-registry opens with Cubric Studio 2.0 and it will be filled in before then).*
+Send the paid-lane zip to **fabio@madponyinteractive.com**, with the PR number in the
+subject. Nothing else about your submission is private: the entry, the review and the
+decision all happen in the open.
 
 ---
 

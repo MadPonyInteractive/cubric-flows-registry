@@ -43,7 +43,8 @@
 - [ ] `flows/<id>.json` only. **No package folder** — CI rejects one.
 - [ ] `download` points at where a buyer gets it.
 - [ ] `sha256` is the hash of the exact zip I am sending for review.
-- [ ] I have emailed the zip. <!-- address in the README -->
+- [ ] I have emailed the zip to **fabio@madponyinteractive.com**, with this PR's number
+      in the subject.
 
 Hash it yourself before you paste it:
 
