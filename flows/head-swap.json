@@ -1,0 +1,17 @@
+{
+  "schema": "cubric/flow-registry/entry/v1",
+  "id": "head-swap",
+  "lane": "paid",
+  "title": "Head Swap",
+  "description": "Swap a head from one image onto another. Mark each head and run.",
+  "version": "1.0.0",
+  "author": "Mad Pony Interactive",
+  "licence": "Proprietary — Mad Pony Interactive. See LICENCE.",
+  "homepage": "https://mad-pony-interactive.gumroad.com/l/khsbf",
+  "minAppVersion": "2.0.0",
+  "mediaType": "image",
+  "requiredModels": ["klein-9b"],
+  "preview": "https://raw.githubusercontent.com/MadPonyInteractive/Cubric-Studio/master/comfy_workflows/display/flow-head-swap.webp",
+  "download": "https://mad-pony-interactive.gumroad.com/l/khsbf",
+  "sha256": "2b5a6049be850ee87508951f20d1ff24a23cabe6a032039dda686c0e5407170c"
+}

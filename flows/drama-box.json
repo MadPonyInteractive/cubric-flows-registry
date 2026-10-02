@@ -1,0 +1,17 @@
+{
+  "schema": "cubric/flow-registry/entry/v1",
+  "id": "drama-box",
+  "lane": "paid",
+  "title": "DramaBox",
+  "description": "Text to speech you direct in words — describe the speaker and the performance in the line itself, and it builds a voice to match.",
+  "version": "1.0.0",
+  "author": "Mad Pony Interactive",
+  "licence": "Proprietary — Mad Pony Interactive. See LICENCE.",
+  "homepage": "https://mad-pony-interactive.gumroad.com/l/odacbs",
+  "minAppVersion": "2.0.0",
+  "mediaType": "audio",
+  "requiredModels": [],
+  "preview": "https://raw.githubusercontent.com/MadPonyInteractive/Cubric-Studio/master/comfy_workflows/display/flow-drama-box.webp",
+  "download": "https://mad-pony-interactive.gumroad.com/l/odacbs",
+  "sha256": "f8fd7cc85c41be42dc2ed3ef058ef8bda63ab0075f44731b42170bcda32e88dd"
+}
